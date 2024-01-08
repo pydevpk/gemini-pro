@@ -37,6 +37,8 @@ Follow these steps to get the project up and running on your local machine.
     ```bash
     cd gemini-pro
 
+- Create .env file in root directory and add environment variable from sample.env.txt file. Make sure you have replaced your Gemini Pro API key
+
 - Run application 
     ```bash
     streamlit run app.py
